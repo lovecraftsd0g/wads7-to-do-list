@@ -4,10 +4,12 @@ API documentation
 
 
 Get all todo function(To-Do)
-![image](https://github.com/user-attachments/assets/c08133a3-a2a2-450f-bca4-ccf4f42ff50e)
+![image](https://github.com/user-attachments/assets/2d15853e-a826-4282-ba67-5f11dfdc2d0a)
+
 
 Add todo function(To-Do)
-![image](https://github.com/user-attachments/assets/9b7ba55e-8688-4789-8301-11cf081ef15d)
+![image](https://github.com/user-attachments/assets/dcd410aa-9b19-4e0b-b882-6dffff90b905)
+
 
 update todo function(To-Do)
 ![image](https://github.com/user-attachments/assets/15845190-ffcf-4dd5-8b10-e75f0afe0287)
