@@ -17,11 +17,25 @@ update todo function(To-Do)
 Delete todo function(To-Do)
 ![image](https://github.com/user-attachments/assets/2c343e73-d61b-402f-94da-dba9e3b47c9b)
 
+
+
+
 Signup function (User)
-![image](https://github.com/user-attachments/assets/21bfbaa0-f809-439a-8352-ea9aa0d61474)
+![image](https://github.com/user-attachments/assets/78aec64d-7fc4-4471-9d00-243eeadec15d)
+Signup function new email (User)
+![image](https://github.com/user-attachments/assets/845dea34-9e74-44fe-a3e3-82c70f7a9495)
+
+
+
+
 
 Signin function (User)
-![image](https://github.com/user-attachments/assets/12525c6a-c75e-490e-913e-1591a886f66f)
+![image](https://github.com/user-attachments/assets/f4c4349a-c536-49eb-be13-f500b61d6407)
+Signin function correct input (User)
+![image](https://github.com/user-attachments/assets/eeed8751-651f-444e-ae3a-85725e34ad9a)
+
+
 
 user-Information function (User)
-![image](https://github.com/user-attachments/assets/2793153c-c5b9-466a-8975-3080e7dd1451)
+![image](https://github.com/user-attachments/assets/4474987b-b60e-4da4-94e1-0924eab4e759)
+
