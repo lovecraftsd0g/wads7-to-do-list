@@ -1,5 +1,5 @@
 import express from 'express';
-import { signIn, signUp, userInfor } from '../controllers/users.js';
+import { activateEmail, signIn, signUp, userInfor } from '../controllers/users.js';
 import { auth } from '../middleware/auth.js';
 
 const router = express.Router()
@@ -58,6 +58,33 @@ const router = express.Router()
  *         description: Internal server error
  */
 router.post("/signup", signUp)
+
+/**
+ * @openapi
+ * /activation:
+ *   post:
+ *     tags:
+ *       - User
+ *     summary: Activate user email
+ *     requestBody:
+ *       required: true
+ *       content:
+ *         application/json:
+ *           schema:
+ *             type: object
+ *             properties:
+ *               activation_token:
+ *                 type: string
+ *                 example: "your_activation_token"
+ *     responses:
+ *       '200':
+ *         description: Activation successful
+ *       '400':
+ *         description: Bad request
+ *       '500':
+ *         description: Internal server error
+ */
+router.post("/activation", activateEmail)
 
 /**
  * @openapi
