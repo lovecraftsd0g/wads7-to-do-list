@@ -51,3 +51,18 @@ user-Information function (User)
 
 ## this is the the result create api testing
 ![WhatsApp Image 2025-03-25 at 10 14 27 AM](https://github.com/user-attachments/assets/04bb701d-208a-48a7-88c0-1672127c13a4)
+
+
+## api testing for signup with actual email
+![WhatsApp Image 2025-05-28 at 12 07 27 PM (1)](https://github.com/user-attachments/assets/a4c4e32e-9d47-473c-85a7-c2516c18eaef)
+
+## this is the result of the sign in function that was recently developed if i havent put it here
+![WhatsApp Image 2025-05-28 at 12 12 12 PM (1)](https://github.com/user-attachments/assets/e10108be-6bea-4f47-9c46-0f2e99975532)
+
+## this is the API testing for the activation
+![WhatsApp Image 2025-05-28 at 12 10 58 PM (1)](https://github.com/user-attachments/assets/1beffedb-54f9-492a-afc9-17dc71f53718)
+
+
+
+
+
